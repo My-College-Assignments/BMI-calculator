@@ -3,7 +3,7 @@
 
 Dependencies to install:
 
-npm init
-npm i express
-npm i body-parser
+- npm init
+- npm i express
+- npm i body-parser
 
